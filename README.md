@@ -1,0 +1,1 @@
+# logostick-bucket-retriever
